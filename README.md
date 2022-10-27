@@ -1,4 +1,4 @@
-# zdna_xai
+# zdna
 
 data_prep.ipynb - предобработка данных
 
